@@ -1,3 +1,5 @@
+//OMG
+
 // сортировка CountingSort 
 void countingSort(struct Student students[], int size) {
     int max_total = 0;
