@@ -1,6 +1,9 @@
+
 //OMG
 //loll
 // сортировка CountingSort 
+main(){
+int a[] = {4, 2};}
 void countingSort(struct Student students[], int size) {
     int max_total = 0;
     for (int i = 0; i < size; i++) {
