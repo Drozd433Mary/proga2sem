@@ -1,1 +1,6 @@
-
+Для запуска CMakeLists.txt
+mkdir build && cd build
+cmake ..
+cmake --build .
+./test_palind
+./palind_cm
